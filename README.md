@@ -66,4 +66,4 @@ License: MIT (see [LICENSE](LICENSE)).
 - [Live Demo](https://working-in-it.github.io/json_converter/)  
 - [Source Code on GitHub](https://github.com/Working-in-IT/json_converter)  
 
-![JSON to Excel](sample.png "Example Interface") *[Note: Add a screenshot if available]*
+![JSON to Excel](sample.jpg "Example Interface") *[Note: Add a screenshot if available]*
